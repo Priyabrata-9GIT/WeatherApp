@@ -1,8 +1,7 @@
-# How to use the project
+my weather app
 
-- Clone
-- Install dependencies (npm i)
-- Get your API key and add to weatherService.js
-- Enjoy!!
+git clone https://github.com/Priyabrata-9GIT/WeatherApp 
 
-> Leave a star :)
+npm install
+
+npm start
